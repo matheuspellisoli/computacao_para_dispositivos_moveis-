@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Manga list</string>
+    <string name="form_label_titulo">Titulo</string>]
+    <string name="form_label_link_imagem">Link imagem</string>
+    <string name="form_label_link_titulo">Link do manga</string>
+    <string name="form_label_ultimo_cap">Ultimo capitulo lido</string>
+    <string name="from_label_salvar">Salvar</string>
+    <string name="from_label_voltar">Voltar</string>
+    <string name="list_label_add">Add</string>
+</resources>
+
